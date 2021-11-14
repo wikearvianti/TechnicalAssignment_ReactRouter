@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           Skilvul
-        </Link>
+        </Link> 
         <button
           className="navbar-toggler"
           type="button"

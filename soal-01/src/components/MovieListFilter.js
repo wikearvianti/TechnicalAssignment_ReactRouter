@@ -5,7 +5,7 @@ const MovieListFilter = () => {
   const params = {};
 
   const shows = [10, 20, 30];
-  const categories = ["TV", "Movie"];
+  const categories = ["TV", "Movie"]; 
   const fields = ["title", "score"];
 
   const [show, setShow] = useState(shows[0]);
